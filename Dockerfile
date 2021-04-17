@@ -6,7 +6,7 @@ USER root
 WORKDIR /tmp
 
 # EDIT USERNAME AND PASSWORD
-ARG username=serafim
+ARG username=user
 ARG userpaswd=1234
 
 # install main tools
