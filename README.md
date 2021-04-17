@@ -21,4 +21,9 @@ $ docker run -d -p 2222:22 -p 8080:80 -p 4430:443 --name nodejs-ssh serafimpear/
 $ ssh -p 2222 user@localhost
 ```
 
+## Node.JS
+```
+$ node index.js
+```
+
 > By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
